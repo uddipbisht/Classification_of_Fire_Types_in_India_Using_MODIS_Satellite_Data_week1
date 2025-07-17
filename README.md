@@ -38,7 +38,7 @@ The main goals of this project are:
 ## 📊 Data Sources
 Data is obtained from the MODIS (Moderate Resolution Imaging Spectroradiometer) satellite datasets:
 
--Fire data for India (2021, 2022, 2023) in CSV format.
+- Fire data for India (2021, 2022, 2023) in CSV format.
 
 ## 🚀 How to Run
 Clone the repository:
@@ -56,25 +56,25 @@ Run the cells in order to:
 
 Load the dataset
 
--Perform EDA (exploratory data analysis)
+- Perform EDA (exploratory data analysis)
 
--Train a classifier (if applicable)
+- Train a classifier (if applicable)
 
--Visualize trends and fire types
+- Visualize trends and fire types
 
 ## 📈 Sample Output
--Charts showing monthly and yearly fire frequency.
+- Charts showing monthly and yearly fire frequency.
 
--Maps of fire locations (if plotted).
+- Maps of fire locations (if plotted).
 
--Classification of fire types based on rules or ML models.
+- Classification of fire types based on rules or ML models.
 
 ## ✅ Future Improvements
--Add machine learning models for more accurate classification.
+- Add machine learning models for more accurate classification.
 
--Integrate GIS mapping.
+- Integrate GIS mapping.
 
--Automate the report generation.
+- Automate the report generation.
 
 ## 🤝 Contributing
 Pull requests and suggestions are welcome. Please ensure code quality and include relevant comments.
