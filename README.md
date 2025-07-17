@@ -1,7 +1,7 @@
-🔥 Classification of Fire Types in India Using MODIS Satellite Data
+### 🔥 Classification of Fire Types in India Using MODIS Satellite Data
 This project involves the classification of fire events across India using MODIS satellite data for the years 2021, 2022, and 2023. The analysis is performed in a Jupyter Notebook and aims to study wildfire patterns, types, and trends using geospatial and temporal data.
 
-📁 Project Structure
+## 📁 Project Structure
 bash
 Copy
 Edit
@@ -10,7 +10,7 @@ Edit
 ├── modis_2023_India.csv         # MODIS fire data for 2023
 ├── Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data.ipynb
 └── README.md                    # Project documentation (this file)
-📌 Objective
+## 📌 Objective
 The main goals of this project are:
 
 To analyze the spatial and temporal distribution of fire incidents in India.
@@ -19,7 +19,7 @@ To classify fire types based on satellite-observed parameters (e.g., FRP, Bright
 
 To identify trends and hotspots of fire activities over time.
 
-🛠️ Tools & Libraries Used
+## 🛠️ Tools & Libraries Used
 Python
 
 Jupyter Notebook
@@ -34,12 +34,12 @@ Scikit-learn
 
 Geopandas (optional for mapping)
 
-📊 Data Sources
+## 📊 Data Sources
 Data is obtained from the MODIS (Moderate Resolution Imaging Spectroradiometer) satellite datasets:
 
 Fire data for India (2021, 2022, 2023) in CSV format.
 
-🚀 How to Run
+## 🚀 How to Run
 Clone the repository:
 
 bash
@@ -61,22 +61,22 @@ Train a classifier (if applicable)
 
 Visualize trends and fire types
 
-📈 Sample Output
+## 📈 Sample Output
 Charts showing monthly and yearly fire frequency.
 
 Maps of fire locations (if plotted).
 
 Classification of fire types based on rules or ML models.
 
-✅ Future Improvements
+## ✅ Future Improvements
 Add machine learning models for more accurate classification.
 
 Integrate GIS mapping.
 
 Automate the report generation.
 
-🤝 Contributing
+## 🤝 Contributing
 Pull requests and suggestions are welcome. Please ensure code quality and include relevant comments.
 
-📄 License
+## 📄 License
 Include a license (MIT, Apache 2.0, etc.) if you want to open-source your work.
