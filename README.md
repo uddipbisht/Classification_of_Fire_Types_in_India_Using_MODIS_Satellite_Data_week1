@@ -13,32 +13,32 @@ Edit
 ## 📌 Objective
 The main goals of this project are:
 
-*To analyze the spatial and temporal distribution of fire incidents in India.
+-To analyze the spatial and temporal distribution of fire incidents in India.
 
-*To classify fire types based on satellite-observed parameters (e.g., FRP, Brightness).
+-To classify fire types based on satellite-observed parameters (e.g., FRP, Brightness).
 
-*To identify trends and hotspots of fire activities over time.
+-To identify trends and hotspots of fire activities over time.
 
 ## 🛠️ Tools & Libraries Used
 
-*Python
+=Python
 
-*Jupyter Notebook
+=Jupyter Notebook
 
-*Pandas
+-Pandas
 
-*NumPy
+-NumPy
 
-*Matplotlib / Seaborn
+-Matplotlib / Seaborn
 
-*Scikit-learn
+-Scikit-learn
 
-*Geopandas (optional for mapping)
+-Geopandas (optional for mapping)
 
 ## 📊 Data Sources
 Data is obtained from the MODIS (Moderate Resolution Imaging Spectroradiometer) satellite datasets:
 
-*Fire data for India (2021, 2022, 2023) in CSV format.
+-Fire data for India (2021, 2022, 2023) in CSV format.
 
 ## 🚀 How to Run
 Clone the repository:
@@ -56,25 +56,25 @@ Run the cells in order to:
 
 Load the dataset
 
-Perform EDA (exploratory data analysis)
+-Perform EDA (exploratory data analysis)
 
-Train a classifier (if applicable)
+-Train a classifier (if applicable)
 
-Visualize trends and fire types
+-Visualize trends and fire types
 
 ## 📈 Sample Output
-Charts showing monthly and yearly fire frequency.
+-Charts showing monthly and yearly fire frequency.
 
-Maps of fire locations (if plotted).
+-Maps of fire locations (if plotted).
 
-Classification of fire types based on rules or ML models.
+-Classification of fire types based on rules or ML models.
 
 ## ✅ Future Improvements
-Add machine learning models for more accurate classification.
+-Add machine learning models for more accurate classification.
 
-Integrate GIS mapping.
+-Integrate GIS mapping.
 
-Automate the report generation.
+-Automate the report generation.
 
 ## 🤝 Contributing
 Pull requests and suggestions are welcome. Please ensure code quality and include relevant comments.
