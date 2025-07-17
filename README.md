@@ -1,10 +1,7 @@
 # 🔥 Classification of Fire Types in India Using MODIS Satellite Data
 This project involves the classification of fire events across India using MODIS satellite data for the years 2021, 2022, and 2023. The analysis is performed in a Jupyter Notebook and aims to study wildfire patterns, types, and trends using geospatial and temporal data.
 
-## 📁 Project Structure
-bash
-Copy
-Edit
+## 📁 Project Structure\
 ├── modis_2021_India.csv         # MODIS fire data for 2021
 ├── modis_2022_India.csv         # MODIS fire data for 2022
 ├── modis_2023_India.csv         # MODIS fire data for 2023
@@ -42,9 +39,9 @@ Data is obtained from the MODIS (Moderate Resolution Imaging Spectroradiometer) 
 
 ## 🚀 How to Run
 1. Clone the repository:
-  - git clone https://github.com/your-username/your-repo-name.git
+  - git clone [https://github.com/your-username/your-repo-name.git](#https://github.com/your-username/your-repo-name.git)
 2. Open the notebook:
- - Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data.ipynb
+ - [Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data.ipynb](#_Types_in_India_Using_MODIS_Satellite_Data.ipynb)
 3. Run the cells in order to:
 
 - Load the dataset
