@@ -39,7 +39,7 @@ Data is obtained from the MODIS (Moderate Resolution Imaging Spectroradiometer) 
 
 ## 🚀 How to Run
 1. Clone the repository:
-  - git clone [https://github.com/uddipbisht/Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_week1.git](#https://github.com/uddipbisht/Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_week1.git)
+  - git clone [https://github.com/uddipbisht/Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_week1.git](https://github.com/uddipbisht/Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_week1.git)
 2. Open the notebook:
  - [Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data.ipynb](https://github.com/uddipbisht/Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_week1/blob/ffebdad65d206b68c5510a0800c90ed254280246/Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data.ipynb)
 3. Run the cells in order to:
