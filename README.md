@@ -41,20 +41,13 @@ Data is obtained from the MODIS (Moderate Resolution Imaging Spectroradiometer) 
 - Fire data for India (2021, 2022, 2023) in CSV format.
 
 ## 🚀 How to Run
-Clone the repository:
+1. Clone the repository:
+  - git clone https://github.com/your-username/your-repo-name.git
+2. Open the notebook:
+ - Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data.ipynb
+3. Run the cells in order to:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/your-repo-name.git
-Open the notebook:
-
-Copy
-Edit
-Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data.ipynb
-Run the cells in order to:
-
-Load the dataset
+- Load the dataset
 
 - Perform EDA (exploratory data analysis)
 
