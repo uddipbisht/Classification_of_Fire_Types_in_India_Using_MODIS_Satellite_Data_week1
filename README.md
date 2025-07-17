@@ -15,17 +15,17 @@ The main goals of this project are:
 
 -To analyze the spatial and temporal distribution of fire incidents in India.
 
--To classify fire types based on satellite-observed parameters (e.g., FRP, Brightness).
+*To classify fire types based on satellite-observed parameters (e.g., FRP, Brightness).
 
--To identify trends and hotspots of fire activities over time.
++To identify trends and hotspots of fire activities over time.
 
 ## 🛠️ Tools & Libraries Used
 
-=Python
+-Python
 
-=Jupyter Notebook
+*Jupyter Notebook
 
--Pandas
++Pandas
 
 -NumPy
 
