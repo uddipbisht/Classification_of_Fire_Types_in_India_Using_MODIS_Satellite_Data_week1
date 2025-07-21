@@ -5,7 +5,8 @@ This project involves the classification of fire events across India using MODIS
 ├── modis_2021_India.csv         # MODIS fire data for 2021<br>
 ├── modis_2022_India.csv         # MODIS fire data for 2022<br>
 ├── modis_2023_India.csv         # MODIS fire data for 2023<br>
-├── Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data.ipynb<br>
+├── Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_week1.ipynb<br>
+├── Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_Week2.ipynb<br>
 └── README.md                    # Project documentation (this file)
 ## 📌 Objective
 The main goals of this project are:
@@ -41,7 +42,10 @@ Data is obtained from the MODIS (Moderate Resolution Imaging Spectroradiometer) 
 1. Clone the repository:
   - git clone [https://github.com/uddipbisht/Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_week1.git](https://github.com/uddipbisht/Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_week1.git)
 2. Open the notebook:
- - [Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data.ipynb](https://github.com/uddipbisht/Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_week1/blob/321afb66cf119c7ed64f4ead69a11fda731f2309/Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data.ipynb)
+ - [Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_Week1.ipynb](https://github.com/uddipbisht/Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_week1/blob/321afb66cf119c7ed64f4ead69a11fda731f2309/Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data.ipynb)
+                             OR
+   Open the notebook:
+ - [Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_Week2.ipynb]( )
 3. Run the cells in order to:
 
 - Load the dataset
