@@ -45,7 +45,7 @@ Data is obtained from the MODIS (Moderate Resolution Imaging Spectroradiometer) 
  - [Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_Week1.ipynb](https://github.com/uddipbisht/Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_week1/blob/321afb66cf119c7ed64f4ead69a11fda731f2309/Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data.ipynb)<br>
                           OR<br>
  2. Open the notebook:
- - [Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_Week2.ipynb]( )
+ - [Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_Week2.ipynb](https://github.com/uddipbisht/Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_week1/blob/377485d7db5468e33395eec8b508f3859815c428/Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_Week2.ipynb)
 3. Run the cells in order to:
 
 - Load the dataset
