@@ -7,6 +7,7 @@ This project involves the classification of fire events across India using MODIS
 ├── modis_2023_India.csv         # MODIS fire data for 2023<br>
 ├── Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_week1.ipynb<br>
 ├── Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_Week2.ipynb<br>
+├── Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_Week3.ipynb<br>
 └── README.md                    # Project documentation (this file)
 ## 📌 Objective
 The main goals of this project are:
@@ -46,6 +47,9 @@ Data is obtained from the MODIS (Moderate Resolution Imaging Spectroradiometer) 
                           OR<br>
  2. Open the notebook:
  - [Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_Week2.ipynb](https://github.com/uddipbisht/Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_week1/blob/377485d7db5468e33395eec8b508f3859815c428/Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_Week2.ipynb)
+ -    OR<br>
+ 2. Open the notebook:
+ - [Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data_Week3.ipynb]()
 3. Run the cells in order to:
 
 - Load the dataset
